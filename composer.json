@@ -1,0 +1,19 @@
+{
+    "name": "evgeni2306/sitemap",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sitemap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "evgeni2306"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-dom": "*",
+        "php": ">=8.1"
+    }
+}
